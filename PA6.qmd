@@ -4,6 +4,7 @@ author: "Max, Kyle, Grace Min"
 format: html
 editor: visual
 embed-resources: true
+author: Minh Ho-hoang, Gracie Harada, Kyle Cahitas, Max Hernandez
 ---
 
 ## Quarto
@@ -15,7 +16,11 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
+<<<<<<< HEAD
 13 * 13
+=======
+11 * 11
+>>>>>>> 19cdbaf5ed3436448f6ffac9cd6efd71aa3d1049
 ```
 
 You can add options to executable code like this
