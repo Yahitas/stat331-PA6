@@ -1,8 +1,10 @@
 ---
 title: "Practice Activity 6"
+author: "Max, Kyle, Grace Min"
 format: html
 editor: visual
 embed-resources: true
+author: Minh Ho-hoang, Gracie Harada, Kyle Cahitas, Max Hernandez
 ---
 
 ## Quarto
